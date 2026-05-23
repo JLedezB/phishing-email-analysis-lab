@@ -172,30 +172,6 @@ phishing-email-analysis-lab/
 
 ![Dashboard](./screenshots/0.png)
 
-### DNS Security
-
-![DNS Security](./screenshots/1.png)
-
-### IOC Detection
-
-![Indicators](./screenshots/2.png)
-
-### URLs & IOCs
-
-![URLs and IOCs](./screenshots/3.png)
-
-### Threat Intelligence
-
-![Threat Intel](./screenshots/4.png)
-
-### URLScan Results
-
-![URLScan](./screenshots/5.png)
-
-### Analyst Notes
-
-![Analyst Notes](./screenshots/6.png)
-
 ### Email Submission
 
 ![Email Submission](./screenshots/7.png)
@@ -207,6 +183,30 @@ phishing-email-analysis-lab/
 ### Header Analysis
 
 ![Header Analysis](./screenshots/9.png)
+
+### DNS Security
+
+![DNS Security](./screenshots/1.png)
+
+### IOC Detection
+
+![IOC Detection](./screenshots/2.png)
+
+### URLs & IOCs
+
+![URLs & IOCs](./screenshots/3.png)
+
+### Threat Intelligence
+
+![Threat Intelligence](./screenshots/4.png)
+
+### URLScan Results
+
+![URLScan Results](./screenshots/5.png)
+
+### Analyst Notes
+
+![Analyst Notes](./screenshots/6.png)
 
 ---
 
