@@ -168,7 +168,45 @@ phishing-email-analysis-lab/
 
 ## Screenshots
 
-Add screenshots here later.
+### Main Dashboard
+
+![Dashboard](./screenshots/dashboard-home.png)
+
+### Email Submission
+
+![Email Submission](./screenshots/email-submission.png)
+
+### Risk Overview
+
+![Risk Overview](./screenshots/risk-overview.png)
+
+### Header Analysis
+
+![Headers](./screenshots/header-analysis.png)
+
+### DNS Security Validation
+
+![DNS Security](./screenshots/dns-security.png)
+
+### IOC Detection
+
+![Indicators](./screenshots/indicators.png)
+
+### URLs & IOCs
+
+![URLs and IOCs](./screenshots/urls-iocs.png)
+
+### Threat Intelligence
+
+![Threat Intel](./screenshots/threat-intel.png)
+
+### URLScan.io Results
+
+![URLScan](./screenshots/urlscan-results.png)
+
+### Analyst Notes
+
+![Analyst Notes](./screenshots/analyst-notes.png)
 
 ---
 
