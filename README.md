@@ -170,43 +170,45 @@ phishing-email-analysis-lab/
 
 ### Main Dashboard
 
-![Dashboard](./screenshots/0.png)
+![Main Dashboard](./screenshots/0.png)
 
-### Email Submission
+### Submit Suspicious Email
 
-![Email Submission](./screenshots/7.png)
+![Submit Suspicious Email](./screenshots/1.png)
 
 ### Risk Overview
 
-![Risk Overview](./screenshots/8.png)
+![Risk Overview](./screenshots/2.png)
 
-### Header Analysis
+### Email Header Summary
 
-![Header Analysis](./screenshots/9.png)
+![Email Header Summary](./screenshots/3.png)
 
-### DNS Security
+### DNS Security & Header Authentication
 
-![DNS Security](./screenshots/1.png)
+![DNS Security & Header Authentication](./screenshots/4.png)
 
-### IOC Detection
+### Indicators Detected
 
-![IOC Detection](./screenshots/2.png)
+![Indicators Detected](./screenshots/5.png)
 
 ### URLs & IOCs
 
-![URLs & IOCs](./screenshots/3.png)
+![URLs & IOCs](./screenshots/6.png)
 
 ### Threat Intelligence
 
-![Threat Intelligence](./screenshots/4.png)
+![Threat Intelligence](./screenshots/7.png)
 
 ### URLScan Results
 
-![URLScan Results](./screenshots/5.png)
+![URLScan Results](./screenshots/8.png)
 
 ### Analyst Notes
 
-![Analyst Notes](./screenshots/6.png)
+![Analyst Notes](./screenshots/9.png)
+
+---
 
 ---
 
@@ -226,6 +228,5 @@ This project demonstrates:
 
 ## Author
 
-Joaquin Ledezma
+Joaquin Ledezma Barragan / SOC Analyst Portfolio Project
 
-Cybersecurity / SOC Analyst Portfolio Project
