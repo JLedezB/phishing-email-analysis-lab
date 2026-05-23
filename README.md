@@ -1,6 +1,6 @@
 # Phishing Email Analysis Lab
 
-Professional SOC-style phishing email analysis dashboard built with React and Node.js.
+Professional phishing email analysis dashboard built with React and Node.js.
 
 ---
 
