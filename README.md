@@ -210,22 +210,6 @@ phishing-email-analysis-lab/
 
 ---
 
----
-
-## Portfolio Project
-
-This project demonstrates:
-
-- SOC investigation workflow
-- Phishing analysis
-- Threat intelligence integration
-- IOC handling
-- Frontend dashboard design
-- Incident documentation
-- Cybersecurity tooling
-
----
-
 ## Author
 
 Joaquin Ledezma Barragan / SOC Analyst Portfolio Project
