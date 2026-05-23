@@ -170,43 +170,43 @@ phishing-email-analysis-lab/
 
 ### Main Dashboard
 
-![Dashboard](./screenshots/dashboard-home.png)
+![Dashboard](./screenshots/0.png)
 
-### Email Submission
+### DNS Security
 
-![Email Submission](./screenshots/email-submission.png)
-
-### Risk Overview
-
-![Risk Overview](./screenshots/risk-overview.png)
-
-### Header Analysis
-
-![Headers](./screenshots/header-analysis.png)
-
-### DNS Security Validation
-
-![DNS Security](./screenshots/dns-security.png)
+![DNS Security](./screenshots/1.png)
 
 ### IOC Detection
 
-![Indicators](./screenshots/indicators.png)
+![Indicators](./screenshots/2.png)
 
 ### URLs & IOCs
 
-![URLs and IOCs](./screenshots/urls-iocs.png)
+![URLs and IOCs](./screenshots/3.png)
 
 ### Threat Intelligence
 
-![Threat Intel](./screenshots/threat-intel.png)
+![Threat Intel](./screenshots/4.png)
 
-### URLScan.io Results
+### URLScan Results
 
-![URLScan](./screenshots/urlscan-results.png)
+![URLScan](./screenshots/5.png)
 
 ### Analyst Notes
 
-![Analyst Notes](./screenshots/analyst-notes.png)
+![Analyst Notes](./screenshots/6.png)
+
+### Email Submission
+
+![Email Submission](./screenshots/7.png)
+
+### Risk Overview
+
+![Risk Overview](./screenshots/8.png)
+
+### Header Analysis
+
+![Header Analysis](./screenshots/9.png)
 
 ---
 
